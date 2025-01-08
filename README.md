@@ -25,10 +25,10 @@
 <div align="center">
 <h2>:information_source: Sobre Mim</h2>
 
-- 🌟 **Proatividade e Dedicação:** Sempre comprometido com a excelência e a entrega de trabalhos de alta qualidade.
-- 💻 **Desenvolvimento Web Full Stack:** Experiência com **React**, **Node.js**, **TypeScript** e **SQL**.
-- 🧩 **Trabalho em Equipe:** Habilidade comprovada em colaborar efetivamente em equipes ágeis e dinâmicas.
-- 🌱 **Aprendizado Contínuo:** Busco constantemente desafios para expandir meu conhecimento e habilidades técnicas.
+- 🌟 Proatividade e Dedicação: Sempre comprometido com a excelência e a entrega de trabalhos de alta qualidade.
+- 💻 Desenvolvimento Web Full Stack: Experiência com React, Node.js, TypeScript e SQL.
+- 🧩 Trabalho em Equipe: Habilidade comprovada em colaborar efetivamente em equipes ágeis e dinâmicas.
+- 🌱 Aprendizado Contínuo: Busco constantemente desafios para expandir meu conhecimento e habilidades técnicas.
 
 </div>
 
@@ -52,13 +52,13 @@
     <strong>Desenvolvedor Full Stack</strong><br/>
     Rocha Distribuidora e Comercial<br/>
     Outubro de 2024 - Presente<br/>
-    <i>Desenvolvimento de aplicações para loja utilizando **TypeScript**, **React**, **Node** e **SQL**.</i>
+    <i>Desenvolvimento de aplicações para loja utilizando TypeScript React Node e SQL.</i>
   </td>
   <td align="center">
     <strong>Desenvolvedor Full Stack</strong><br/>
     Agência Experimental de Software<br/>
     Março de 2024 - Presente<br/>
-    <i>Criação de soluções web dinâmicas e interativas usando **JavaScript**, **React**, **Node.js** e **PostgreSQL**.</i>
+    <i>Criação de soluções web dinâmicas e interativas usando JavaScript, React, Node.js e PostgreSQL.</i>
   </td>
 </tr>
 </table>
