@@ -2,19 +2,19 @@
 
 -----
 
-<div align="center">
+<div>
 
 <table>
 <tr>
- <td align="center" colspan="3">
- <img align="center" alt="Header" src="https://github.com/BrunoEvangelista17/BrunoEvangelista17/raw/main/img/header_bruno.png"/>
+ <td colspan="3">
+ <img alt="Header" src="https://github.com/BrunoEvangelista17/BrunoEvangelista17/raw/main/img/header_bruno.png"/>
  </td>
 </tr>
 <tr>
- <td align="center" colspan="3"><h1>Bruno Evangelista</h1></td>
+ <td colspan="3"><h1>Bruno Evangelista</h1></td>
 </tr>
 <tr>
- <td align="center" colspan="3"><i>Desenvolvedor Full Stack | Estudante de Engenharia de Software na PUC Minas</i></td>
+ <td colspan="3"><i>Desenvolvedor Full Stack | Estudante de Engenharia de Software na PUC Minas</i></td>
 </tr>
 </table>
 
@@ -22,7 +22,7 @@
 
 -----
 
-<div align="center">
+<div>
 <h2>:information_source: Sobre Mim</h2>
 
 - 🌟 Proatividade e Dedicação: Sempre comprometido com a excelência e a entrega de trabalhos de alta qualidade.
@@ -36,7 +36,7 @@
 
 <table>
 <tr>
- <td align="center">:octocat: <a href="https://www.g(https://camo.githubusercontent.com/830ea56eb71723a4a8b47263982897f93d1c88714c60101f9b7ff12af5ec6eeb/68747470733a2f2f6170692e6769746875627472656e64732e696f2f757365722f7376672f4272756e6f4576616e67656c6973746131372f7265706f733f74696d655f72616e67653d6f6e655f79656172266c6f635f6d65747269633d6368616e676564267468656d653d6461726b" target="_blank">GitHub Wrapped</a></td>
+ <td>:octocat: <a href="https://www.g(https://camo.githubusercontent.com/830ea56eb71723a4a8b47263982897f93d1c88714c60101f9b7ff12af5ec6eeb/68747470733a2f2f6170692e6769746875627472656e64732e696f2f757365722f7376672f4272756e6f4576616e67656c6973746131372f7265706f733f74696d655f72616e67653d6f6e655f79656172266c6f635f6d65747269633d6368616e676564267468656d653d6461726b" target="_blank">GitHub Wrapped</a></td>
 </tr>
 <tr>
 <td>
@@ -44,13 +44,13 @@
 </td>
 </tr>
 <tr>
- <td align="center"></td>
- <td align="center"></td>
+ <td></td>
+ <td></td>
 </tr> 
 </table>
 <table>
 <tr>
- <td align="center" colspan="3"></td>
+ <td colspan="3"></td>
 </tr> 
 <tr>
 <td>
@@ -75,13 +75,13 @@
 </td>
 </tr>
 <tr>
- <td align="center" colspan="3"></td>
+ <td colspan="3"></td>
 </tr> 
 </table>
 
 -----
 
-<div align="center">
+<div>
 <h2>:books: Formação Acadêmica</h2>
 <ul>
   <li><strong>PUC Minas</strong> - Bacharelado em Engenharia de Software (2023-2026)</li>
@@ -91,17 +91,17 @@
 
 -----
 
-<div align="center">
+<div>
 <h2>:gear: Experiência Profissional</h2>
 <table>
 <tr>
-  <td align="center">
+  <td>
     <strong>Desenvolvedor Full Stack</strong><br/>
     Rocha Distribuidora e Comercial<br/>
     Outubro de 2024 - Presente<br/>
     <i>Desenvolvimento de aplicações para loja utilizando TypeScript React Node e SQL.</i>
   </td>
-  <td align="center">
+  <td>
     <strong>Desenvolvedor Full Stack</strong><br/>
     Agência Experimental de Software<br/>
     Março de 2024 - Presente<br/>
@@ -113,7 +113,7 @@
 
 -----
 
-<div align="center">
+<div>
 <h2>:star: Competências Técnicas</h2>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/></code>
@@ -125,7 +125,7 @@
 
 -----
 
-<div align="center">
+<div>
 <h2>:email: Contato</h2>
 
 - 📧 Email: brunoevangelistag15@gmail.com  
