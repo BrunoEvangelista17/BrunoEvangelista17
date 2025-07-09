@@ -63,27 +63,11 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções web inovadoras e
 
 -----
 
-## :star: Competências Técnicas
-**Front-end**:  
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/> React</code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> JavaScript</code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/> TypeScript</code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> HTML</code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> CSS</code>
-
-**Back-end**:  
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/> Node.js</code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/> Go</code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> Python</code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/> Java</code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/> C++</code>
-
-**Banco de Dados**:  
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/> PostgreSQL</code>
-
-**Ferramentas**:  
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/> Git</code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/> Docker</code>
+:star: Competências Técnicas
+Front-end: React JavaScript TypeScript HTML CSS Axios
+Back-end: Node.js Express NestJS Fastify Go Python Java C++
+Banco de Dados: PostgreSQL
+Ferramentas: Git Docker
 
 -----
 
