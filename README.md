@@ -2,126 +2,99 @@
 
 -----
 
-<div>
-
-<table>
-<tr>
- <td>
- <img alt="Header" src="https://github.com/BrunoEvangelista17/BrunoEvangelista17/raw/main/img/github-header-image.png"/>
- </td>
-</tr>
-<tr>
- <td colspan="3"><h1>Bruno Evangelista</h1></td>
-</tr>
-<tr>
- <td colspan="3"><i>Desenvolvedor Full Stack | Estudante de Engenharia de Software na PUC Minas</i></td>
-</tr>
-</table>
-
+<div align="center">
+  <img alt="Header" src="https://github.com/BrunoEvangelista17/BrunoEvangelista17/raw/main/img/github-header-image.png"/>
+  <h1>Bruno Evangelista</h1>
+  <p><i>Desenvolvedor Full Stack | Estudante de Engenharia de Software na PUC Minas</i></p>
 </div>
 
 -----
 
-<div>
-<h2>:information_source: Sobre Mim</h2>
+## :information_source: Sobre Mim
+Sou um desenvolvedor Full Stack apaixonado por criar soluções web inovadoras e escaláveis. Estudante de Engenharia de Software na PUC Minas, combino proatividade, aprendizado contínuo e trabalho em equipe para entregar projetos de alta qualidade.
 
-- 🌟 Proatividade e Dedicação: Sempre comprometido com a excelência e a entrega de trabalhos de alta qualidade.
-- 💻 Desenvolvimento Web Full Stack: Experiência com React, Node.js, TypeScript e SQL.
-- 🧩 Trabalho em Equipe: Habilidade comprovada em colaborar efetivamente em equipes ágeis e dinâmicas.
-- 🌱 Aprendizado Contínuo: Busco constantemente desafios para expandir meu conhecimento e habilidades técnicas.
-
-</div>
+- 💻 **Especializado em**: React, Node.js, TypeScript e SQL.
+- 🌟 **Comprometido com**: Excelência e entrega de resultados.
+- 🌱 **Apaixonado por**: Desafios técnicos e aprendizado constante.
 
 -----
 
-<table>
-<tr>
- <td>:octocat: <a href="https://www.g(https://camo.githubusercontent.com/830ea56eb71723a4a8b47263982897f93d1c88714c60101f9b7ff12af5ec6eeb/68747470733a2f2f6170692e6769746875627472656e64732e696f2f757365722f7376672f4272756e6f4576616e67656c6973746131372f7265706f733f74696d655f72616e67653d6f6e655f79656172266c6f635f6d65747269633d6368616e676564267468656d653d6461726b" target="_blank">GitHub Wrapped</a></td>
-</tr>
-</table>
-<table>
-<tr>
- <td colspan="3"></td>
-</tr> 
-<tr>
-<td>
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoEvangelista17&theme=github_dark"/>
-</td>
-<td>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoEvangelista17&theme=github_dark"/>
-</td>
-<td>
-<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoEvangelista17&theme=github_dark"/>
-</td>
-</tr>
-<tr>
-<td>
-<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoEvangelista17&theme=github_dark&utcOffset=8"/>
-</td>
-<td>
-<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunoEvangelista17&theme=github_dark"/>
-</td>
-<td>
-<img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=BrunoEvangelista17&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
-</td>
-</tr>
-<tr>
- <td colspan="3"></td>
-</tr> 
-</table>
+## 📊 Minhas Estatísticas no GitHub
+<div align="center">
+  <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoEvangelista17&theme=github_dark"/>
+  <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoEvangelista17&theme=github_dark"/>
+  <img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoEvangelista17&theme=github_dark"/>
+  <br/>
+  <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoEvangelista17&theme=github_dark&utcOffset=8"/>
+  <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunoEvangelista17&theme=github_dark"/>
+  <img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=BrunoEvangelista17&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+</div>
+
+:octocat: [GitHub Wrapped](https://www.[](https://camo.githubusercontent.com/830ea56eb71723a4a8b47263982897f93d1c88714c60101f9b7ff12af5ec6eeb/68747470733a2f2f6170692e6769746875627472656e64732e696f2f757365722f7376672f4272756e6f4576616e67656c6973746131372f7265706f732f74696d655f72616e67653d6f6e655f79656172266c6f635f6d65747269633d6368616e676564267468656d653d6461726b)
 
 -----
 
-<div>
-<h2>:books: Formação Acadêmica</h2>
-<ul>
-  <li><strong>PUC Minas</strong> - Bacharelado em Engenharia de Software (2023-2026)</li>
-  <li><strong>Senai Euvaldo Lodi</strong> - Técnico em Mecatrônica, Robótica e Automação (2021-2023)</li>
-</ul>
-</div>
+## :books: Formação Acadêmica
+- **PUC Minas** - Bacharelado em Engenharia de Software (2023-2026)
+- **Senai Euvaldo Lodi** - Técnico em Mecatrônica, Robótica e Automação (2021-2023)
 
 -----
 
-<div>
-<h2>:gear: Experiência Profissional</h2>
-<table>
-<tr>
-  <td>
-    <strong>Desenvolvedor Full Stack</strong><br/>
-    Rocha Distribuidora e Comercial<br/>
-    Outubro de 2024 - Presente<br/>
-    <i>Desenvolvimento de aplicações para loja utilizando TypeScript React Node e SQL.</i>
-  </td>
-  <td>
-    <strong>Desenvolvedor Full Stack</strong><br/>
-    Agência Experimental de Software<br/>
-    Março de 2024 - Presente<br/>
-    <i>Criação de soluções web dinâmicas e interativas usando JavaScript, React, Node.js e PostgreSQL.</i>
-  </td>
-</tr>
-</table>
-</div>
+## :gear: Experiência Profissional
+| **Desenvolvedor Full Stack** | **Desenvolvedor Full Stack** |
+|------------------------------|------------------------------|
+| **Rocha Distribuidora e Comercial**<br/>Outubro de 2024 - Presente<br/><i>Desenvolvimento de aplicações para loja utilizando TypeScript, React, Node.js e SQL.</i> | **Agência Experimental de Software**<br/>Março de 2024 - Presente<br/><i>Criação de soluções web dinâmicas e interativas usando JavaScript, React, Node.js e PostgreSQL.</i> |
 
 -----
 
-<div>
-<h2>:star: Competências Técnicas</h2>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/></code>
-</div>
+## 🛠️ Projetos em Destaque
+- **[Sistema de E-commerce](URL_DO_REPOSITORIO)**  
+  Desenvolvi uma aplicação web para gerenciamento de vendas com autenticação de usuários e integração com API de pagamentos.  
+  *Tecnologias*: React, Node.js, PostgreSQL, TypeScript
+
+- **[Dashboard de Análise de Dados](URL_DO_REPOSITORIO)**  
+  Criei um dashboard interativo para visualização de dados, consumindo uma API REST.  
+  *Tecnologias*: React, JavaScript, Chart.js
 
 -----
 
-<div>
-<h2>:email: Contato</h2>
+## 🏆 Conquistas e Certificações
+- Certificação em Desenvolvimento Web Full Stack - Dio.me (2024)
+- 2º lugar em Hackathon de Inovação - PUC Minas (2023)
+- Curso de TypeScript Avançado - Udemy (2023)
 
-- 📧 Email: brunoevangelistag15@gmail.com  
-- 📱 Celular: (31) 99883-3300  
-- 🌐 LinkedIn: [Bruno Evangelista](https://www.linkedin.com/in/brunoevangelistag/)  
-- 💻 GitHub: [Bruno Evangelista](https://github.com/BrunoEvangelista17)  
+-----
 
-</div>
+## :star: Competências Técnicas
+**Front-end**:  
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/> React</code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> JavaScript</code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/> TypeScript</code>
+
+**Back-end**:  
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/> Node.js</code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/> Java</code>
+
+**Banco de Dados**:  
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/> PostgreSQL</code>
+
+**Ferramentas**:  
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/> Git</code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/> Docker</code>
+
+-----
+
+## 😄 Um Pouco Mais Sobre Mim
+Além de programar, sou entusiasta de jogos indie, inteligência artificial e café! Adoro explorar novas tecnologias e compartilhar conhecimento.
+
+-----
+
+## :email: Contato
+Entre em contato para colaborar em projetos ou trocar ideias!
+
+- 📧 **Email**: [brunoevangelistag15@gmail.com](mailto:brunoevangelistag15@gmail.com)  
+- 📱 **Celular**: (31) 99883-3300  
+- 🌐 **LinkedIn**: [Bruno Evangelista](https://www.linkedin.com/in/brunoevangelistag/)  
+- 💻 **GitHub**: [Bruno Evangelista](https://github.com/BrunoEvangelista17)  
+
+-----
