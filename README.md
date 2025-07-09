@@ -38,15 +38,6 @@
 <tr>
  <td>:octocat: <a href="https://www.g(https://camo.githubusercontent.com/830ea56eb71723a4a8b47263982897f93d1c88714c60101f9b7ff12af5ec6eeb/68747470733a2f2f6170692e6769746875627472656e64732e696f2f757365722f7376672f4272756e6f4576616e67656c6973746131372f7265706f733f74696d655f72616e67653d6f6e655f79656172266c6f635f6d65747269633d6368616e676564267468656d653d6461726b" target="_blank">GitHub Wrapped</a></td>
 </tr>
-<tr>
-<td>
-<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/BrunoEvangelista17/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
-</td>
-</tr>
-<tr>
- <td></td>
- <td></td>
-</tr> 
 </table>
 <table>
 <tr>
