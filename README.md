@@ -75,7 +75,7 @@ Sou um desenvolvedor Full Stack com experiência de criar aplicações performá
 **Back-end**:  
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/> Node.js</code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/> Express</code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nestjs/nestjs-original.svg"/> NestJS</code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"/> NestJS</code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-plain.svg"/> Fastify</code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/> Go</code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> Python</code>
@@ -84,6 +84,7 @@ Sou um desenvolvedor Full Stack com experiência de criar aplicações performá
 
 **Banco de Dados**:  
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/> PostgreSQL</code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/> SQL Server</code>
 
 **Ferramentas**:  
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/> Git</code>
