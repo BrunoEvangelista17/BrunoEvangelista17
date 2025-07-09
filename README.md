@@ -46,6 +46,10 @@ Sou um desenvolvedor Full Stack com experiência de criar aplicações performá
 -----
 
 ## 🛠️ Projetos em Destaque
+- **[Chronos Backend](https://github.com/BrunoEvangelista17/Chronos-Backend-TI5)**  
+  Desenvolvi o backend de uma plataforma de gestão ágil de projetos, com suporte a Scrum e Kanban. Implementei APIs RESTful com Nest.js, notificações em tempo real com Kafka e Socket.IO, e persistência com MongoDB.  
+  *Tecnologias*: Nest.js, TypeScript, MongoDB, Kafka, Socket.IO, Fastify
+
 - **[Sistema de E-commerce](URL_DO_REPOSITORIO)**  
   Desenvolvi uma aplicação web para gerenciamento de vendas com autenticação de usuários e integração com API de pagamentos.  
   *Tecnologias*: React, Node.js, PostgreSQL, TypeScript
