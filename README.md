@@ -75,7 +75,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções web inovadoras e
 **Back-end**:  
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/> Node.js</code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/> Express</code>
-<code><img height="30" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg](https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nestjs/nestjs-original.svg)"/> NestJS</code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nestjs/nestjs-original.svg"/> NestJS</code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-plain.svg"/> Fastify</code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/> Go</code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> Python</code>
