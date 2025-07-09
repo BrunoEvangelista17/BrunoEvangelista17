@@ -11,7 +11,7 @@
 -----
 
 ## :information_source: Sobre Mim
-Sou um desenvolvedor Full Stack apaixonado por criar soluções web inovadoras e escaláveis. Estudante de Engenharia de Software na PUC Minas, combino proatividade, aprendizado contínuo e trabalho em equipe para entregar projetos de alta qualidade.
+Sou um desenvolvedor Full Stack com experiência de criar aplicações performáticas, escaláveis e de alta qualidade. Minhas experiências acadêmicas e profissionais moldaram-me como um profissional proativo, comunicativo e dedicado a entregar soluções de excelência. Minha formação em Engenharia de Software me proporcionou não apenas habilidades técnicas, mas também competências em planejamento estratégico e análise de requisitos, garantindo que cada projeto atinja seu máximo potencial.
 
 - 💻 **Especializado em**: React, Node.js, TypeScript e SQL.
 - 🌟 **Comprometido com**: Excelência e entrega de resultados.
