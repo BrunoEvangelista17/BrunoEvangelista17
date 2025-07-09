@@ -7,7 +7,7 @@
 <table>
 <tr>
  <td colspan="3">
- <img alt="Header" src="https://github.com/BrunoEvangelista17/BrunoEvangelista17/raw/main/img/your-header-image-name.png"/>
+ <img alt="Header" src="https://github.com/BrunoEvangelista17/BrunoEvangelista17/raw/main/img/github-header-image.png"/>
  </td>
 </tr>
 <tr>
