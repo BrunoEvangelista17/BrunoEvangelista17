@@ -30,8 +30,6 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções web inovadoras e
   <img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=BrunoEvangelista17&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
-:octocat: [GitHub Wrapped](https://www.[](https://camo.githubusercontent.com/830ea56eb71723a4a8b47263982897f93d1c88714c60101f9b7ff12af5ec6eeb/68747470733a2f2f6170692e6769746875627472656e64732e696f2f757365722f7376672f4272756e6f4576616e67656c6973746131372f7265706f732f74696d655f72616e67653d6f6e655f79656172266c6f635f6d65747269633d6368616e676564267468656d653d6461726b)
-
 -----
 
 ## :books: Formação Acadêmica
