@@ -57,9 +57,8 @@ Sou um desenvolvedor Full Stack com experiência de criar aplicações performá
 -----
 
 ## 🏆 Conquistas e Certificações
-- Certificação em Desenvolvimento Web Full Stack - Dio.me (2024)
-- 2º lugar em Hackathon de Inovação - PUC Minas (2023)
-- Curso de TypeScript Avançado - Udemy (2023)
+- Melhor trabalho interdisciplinar, 1° e 2° semestre 2024
+- Curso de TypeScript intermediario - Udemy (2024)
 
 -----
 
