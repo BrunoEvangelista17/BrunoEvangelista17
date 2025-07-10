@@ -21,28 +21,28 @@ Sou um desenvolvedor Full Stack com experiência de criar aplicações performá
 
 ## 📊 Minhas Estatísticas no GitHub
 <div align="center">
-    <a href="https://github.com/BrunoEvangelista17">
-    <img alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=BrunoEvangelista17&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/BrunoEvangelista17">
-    <img alt="Linguagens Mais Usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoEvangelista17&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
-  </a>
-  <br/>
-
-    <a href="https://github.com/BrunoEvangelista17">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoEvangelista17&theme=tokyonight&hide_border=true"/>
-  </a>
   <a href="https://github.com/BrunoEvangelista17">
-    <img alt="Detalhes do Perfil" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoEvangelista17&theme=github_dark"/>
-  </a>
+    <img alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=BrunoEvangelista17&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/BrunoEvangelista17">
+    <img alt="Linguagens Mais Usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoEvangelista17&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+  </a>
   <br/>
 
-    <a href="https://github.com/BrunoEvangelista17">
-    <img alt="Repositórios por Linguagem" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoEvangelista17&theme=github_dark"/>
-  </a>
-  <a href="https://github.com/BrunoEvangelista17">
-    <img alt="Tempo Produtivo no GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoEvangelista17&theme=github_dark&utcOffset=-3"/>
-  </a>
+  <a href="https://github.com/BrunoEvangelista17">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoEvangelista17&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/BrunoEvangelista17">
+    <img alt="Tempo Produtivo no GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoEvangelista17&theme=github_dark&utcOffset=-3"/>
+  </a>
+  <br/>
+
+  <a href="https://github.com/BrunoEvangelista17">
+    <img alt="Detalhes do Perfil" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoEvangelista17&theme=github_dark"/>
+  </a>
+  <a href="https://github.com/BrunoEvangelista17">
+    <img alt="Repositórios por Linguagem" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoEvangelista17&theme=github_dark"/>
+  </a>
 </div>
 
 -----
