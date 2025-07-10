@@ -21,13 +21,30 @@ Sou um desenvolvedor Full Stack com experiência de criar aplicações performá
 
 ## 📊 Minhas Estatísticas no GitHub
 <div align="center">
-  <img alt="GitHub Stats" width="400px" src="https://github-readme-stats.vercel.app/api?username=BrunoEvangelista17&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-  <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoEvangelista17&theme=github_dark"/>
-  <img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoEvangelista17&theme=github_dark"/>
+  <a href="https://github.com/BrunoEvangelista17">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BrunoEvangelista17&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/BrunoEvangelista17">
+    <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoEvangelista17&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+  </a>
+
   <br/>
-  <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoEvangelista17&theme=github_dark&utcOffset=8"/>
-  <img alt="GitHub Commits" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoEvangelista17&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
-  <img alt="GitHub Streak" width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoEvangelista17&theme=tokyonight&hide_border=true"/>
+
+  <a href="https://github.com/BrunoEvangelista17">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoEvangelista17&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/BrunoEvangelista17">
+    <img alt="GitHub Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoEvangelista17&theme=github_dark"/>
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/BrunoEvangelista17">
+    <img alt="Repos Per Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoEvangelista17&theme=github_dark"/>
+  </a>
+  <a href="https://github.com/BrunoEvangelista17">
+    <img alt="GitHub Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoEvangelista17&theme=github_dark&utcOffset=8"/>
+  </a>
 </div>
 
 -----
