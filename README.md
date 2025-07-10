@@ -50,11 +50,11 @@ Sou um desenvolvedor Full Stack com experiência de criar aplicações performá
   Desenvolvi o backend de uma plataforma de gestão ágil de projetos, com suporte a Scrum e Kanban. Implementei APIs RESTful com Nest.js, notificações em tempo real com Kafka e Socket.IO, e persistência com MongoDB.  
   *Tecnologias*: Nest.js, TypeScript, MongoDB, Kafka, Socket.IO, Fastify
 
-- **[Biblioteca de Grafos](URL_DO_REPOSITORIO)**  
+- **[Biblioteca de Grafos](https://github.com/ALfLuisV/Trabalho_grafos)**  
   Desenvolvi uma biblioteca acadêmica em Python para manipulação de grafos, com suporte a criação/exclusão de vértices e arestas, algoritmos (Fleury, Tarjan, Kosaraju) e visualização via CSV/JSON, listas e matrizes.  
   *Tecnologias*: Python, CSV, JSON
 
-- **[Church Schedule](URL_DO_REPOSITORIO)**  
+- **[Church Schedule](https://github.com/BrunoEvangelista17/Church-Schedule)**  
   Criei um sistema para gestão de escalas e eventos em igrejas, com controle de horários, organização de equipes e visualização de horas trabalhadas.  
   *Tecnologias*: React, Node.js
 
