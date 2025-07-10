@@ -50,13 +50,13 @@ Sou um desenvolvedor Full Stack com experiência de criar aplicações performá
   Desenvolvi o backend de uma plataforma de gestão ágil de projetos, com suporte a Scrum e Kanban. Implementei APIs RESTful com Nest.js, notificações em tempo real com Kafka e Socket.IO, e persistência com MongoDB.  
   *Tecnologias*: Nest.js, TypeScript, MongoDB, Kafka, Socket.IO, Fastify
 
-- **[Sistema de E-commerce](URL_DO_REPOSITORIO)**  
-  Desenvolvi uma aplicação web para gerenciamento de vendas com autenticação de usuários e integração com API de pagamentos.  
-  *Tecnologias*: React, Node.js, PostgreSQL, TypeScript
+- **[Biblioteca de Grafos](URL_DO_REPOSITORIO)**  
+  Desenvolvi uma biblioteca acadêmica em Python para manipulação de grafos, com suporte a criação/exclusão de vértices e arestas, algoritmos (Fleury, Tarjan, Kosaraju) e visualização via CSV/JSON, listas e matrizes.  
+  *Tecnologias*: Python, CSV, JSON
 
-- **[Dashboard de Análise de Dados](URL_DO_REPOSITORIO)**  
-  Criei um dashboard interativo para visualização de dados, consumindo uma API REST.  
-  *Tecnologias*: React, JavaScript, Chart.js
+- **[Church Schedule](URL_DO_REPOSITORIO)**  
+  Criei um sistema para gestão de escalas e eventos em igrejas, com controle de horários, organização de equipes e visualização de horas trabalhadas.  
+  *Tecnologias*: React, Node.js
 
 -----
 
