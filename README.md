@@ -26,7 +26,7 @@ Sou um desenvolvedor Full Stack com experiência de criar aplicações performá
   <img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoEvangelista17&theme=github_dark"/>
   <br/>
   <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrunoEvangelista17&theme=github_dark&utcOffset=8"/>
-  <img alt="GitHub Commits" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoEvangelista17&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+  <img alt="GitHub Commits" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoEvangelista17&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
   <img alt="GitHub Streak" width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoEvangelista17&theme=tokyonight&hide_border=true"/>
 </div>
 
