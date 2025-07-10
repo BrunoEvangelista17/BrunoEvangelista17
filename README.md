@@ -37,14 +37,6 @@ Sou um desenvolvedor Full Stack com experiência de criar aplicações performá
   </a>
   <br/>
 
-  <a href="https://github.com/BrunoEvangelista17/portfolio-react">
-    <img alt="Card do Repositório portfolio-react" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoEvangelista17&repo=portfolio-react&theme=tokyonight&show_owner=true"/>
-  </a>
-  <a href="https://github.com/BrunoEvangelista17">
-        <img alt="Estatísticas do WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO_WAKATIME&theme=tokyonight&hide_border=true"/>
-  </a>
-  <br/>
-
     <a href="https://github.com/BrunoEvangelista17">
     <img alt="Repositórios por Linguagem" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoEvangelista17&theme=github_dark"/>
   </a>
