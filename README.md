@@ -21,7 +21,7 @@ Sou um desenvolvedor Full Stack com experiência de criar aplicações performá
 
 ## 📊 Minhas Estatísticas no GitHub
 <div align="center">
-  <img alt="GitHub Stats" width="200px" src="![BrunoEvangelista17's Stats](https://github-readme-stats.vercel.app/api?username=BrunoEvangelista17&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)"/>
+  <img alt="GitHub Stats" width="200px" src="https://github-readme-stats.vercel.app/api?username=BrunoEvangelista17&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
   <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoEvangelista17&theme=github_dark"/>
   <img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoEvangelista17&theme=github_dark"/>
   <br/>
