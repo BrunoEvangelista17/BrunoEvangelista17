@@ -60,18 +60,35 @@ Sou um desenvolvedor Full Stack com experiência de criar aplicações performá
 
 -----
 
-## 🛠️ Projetos em Destaque
-- **[Chronos Backend](https://github.com/BrunoEvangelista17/Chronos-Backend-TI5)**  
-  Desenvolvi o backend de uma plataforma de gestão ágil de projetos, com suporte a Scrum e Kanban. Implementei APIs RESTful com Nest.js, notificações em tempo real com Kafka e Socket.IO, e persistência com MongoDB.  
-  *Tecnologias*: Nest.js, TypeScript, MongoDB, Kafka, Socket.IO, Fastify
-
-- **[Biblioteca de Grafos](https://github.com/ALfLuisV/Trabalho_grafos)**  
-  Desenvolvi uma biblioteca acadêmica em Python para manipulação de grafos, com suporte a criação/exclusão de vértices e arestas, algoritmos (Fleury, Tarjan, Kosaraju) e visualização via CSV/JSON, listas e matrizes.  
-  *Tecnologias*: Python, CSV, JSON
-
-- **[Church Schedule](https://github.com/BrunoEvangelista17/Church-Schedule)**  
-  Criei um sistema para gestão de escalas e eventos em igrejas, com controle de horários, organização de equipes e visualização de horas trabalhadas.  
-  *Tecnologias*: React, Node.js
+<h3 align="center">🛠️ Projetos em Destaque 🛠️</h3>
+<table border="0" align="center">
+<tr border="0">
+<td width="33%" align="center">
+  <a href="https://github.com/BrunoEvangelista17/Chronos-Backend-TI5" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoEvangelista17&repo=Chronos-Backend-TI5&theme=tokyonight&show_owner=true"/>
+  </a>
+  <br/>
+  <p>Backend para uma plataforma de gestão ágil (Scrum/Kanban) com APIs RESTful, notificações em tempo real e persistência com MongoDB.</p>
+  <p><i>Nest.js, TypeScript, Kafka, Socket.IO</i></p>
+</td>
+<td width="33%" align="center">
+  <a href="https://github.com/ALfLuisV/Trabalho_grafos" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ALfLuisV&repo=Trabalho_grafos&theme=tokyonight&show_owner=true"/>
+  </a>
+  <br/>
+  <p>Biblioteca acadêmica em Python para manipulação e visualização de grafos, implementando algoritmos como Fleury, Tarjan e Kosaraju.</p>
+  <p><i>Python, CSV, JSON</i></p>
+</td>
+<td width="33%" align="center">
+  <a href="https://github.com/BrunoEvangelista17/Church-Schedule" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoEvangelista17&repo=Church-Schedule&theme=tokyonight&show_owner=true"/>
+  </a>
+  <br/>
+  <p>Sistema para gestão de escalas e eventos em igrejas, com controle de horários, organização de equipes e visualização de horas.</p>
+  <p><i>React, Node.js</i></p>
+</td>
+</tr>
+</table>
 
 -----
 
